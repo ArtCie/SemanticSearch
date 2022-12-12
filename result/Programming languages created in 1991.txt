@@ -1,0 +1,6 @@
+Oberon-2
+Oriel (scripting language)
+Oz (programming language)
+Page Interchange Language
+Python (programming language)
+Visual Basic (classic)

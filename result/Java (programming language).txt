@@ -1,0 +1,49 @@
+.properties
+Adoptium
+AgentSheets
+Comparison of Java and Android API
+Apache Empire-db
+Apache Harmony
+Apache iBATIS
+Apache Kylin
+Java applet
+Associació d'Usuaris de Java de Catalunya
+Automated exception handling
+Bean Scripting Framework
+Boxing (computer science)
+Comparison of C Sharp and Java
+Celtix
+Chainsaw (log file viewer)
+CJAN
+Clone (Java method)
+CloudBees
+Comparison of Java and C++
+Comparison of the Java and .NET platforms
+Constant interface
+Java 4K Game Programming Contest
+Cougaar
+Criticism of Java
+Devoxx
+Edison Design Group
+Event dispatching thread
+Facelets
+Final (Java)
+FXML
+Generics in Java
+James Gosling
+GraphHopper
+Todd Greanier
+Head First (book series)
+Hector (API)
+Jim Hugunin
+Inner class
+Interface (Java)
+Internet Foundation Classes
+Inversion of control
+JAD (file format)
+Jakarta Activation
+Jakarta Expression Language
+Java Access Bridge
+Java annotation
+Java Class Library
+Java Classloader

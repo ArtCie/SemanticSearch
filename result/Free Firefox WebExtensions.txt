@@ -1,0 +1,23 @@
+List of free and recommended Mozilla WebExtensions
+Copyfish
+DownThemAll!
+Forecastfox (fix version)
+Free Law Project
+GNU LibreJS
+Greasemonkey
+Mailvelope
+Morning Coffee Quantum
+NoScript
+Open Access Button
+Privacy Badger
+Stylish
+Stylus (browser extension)
+Terms of Service; Didn't Read
+Tong Wen Tang
+Tridactyl (WebExtension)
+Turn Off the Lights (extension)
+UBlock Origin
+Universal Edit Button
+Web Developer (software)
+WebScrapBook
+WOT Services

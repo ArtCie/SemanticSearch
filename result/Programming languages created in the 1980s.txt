@@ -1,0 +1,7 @@
+ABC (programming language)
+CEEMAC
+Dexterity (programming language)
+Extended ML
+Lazy ML
+TNSDL
+UBASIC

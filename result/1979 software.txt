@@ -1,0 +1,19 @@
+86-DOS
+Apple Writer
+Atari DOS
+Bar Ilan Responsa Project
+BASIC Programming
+BDS C
+Bourne shell
+DBase
+Delivermail
+Fortune (Unix)
+Honeywell CP-6
+MP/M
+NLTSS
+SAP R/2
+T/Maker
+UNIX/32V
+Version 7 Unix
+VisiCalc
+WordPerfect

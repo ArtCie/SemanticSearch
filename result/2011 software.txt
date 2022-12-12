@@ -1,0 +1,49 @@
+ADvantage Framework
+Android Honeycomb
+Android Ice Cream Sandwich
+Apache Helix
+Apache Kafka
+ArangoDB
+Back in Time (iOS software)
+Baidu Yi
+Blendr
+Blur (browser extension)
+Bootstrap (front-end framework)
+Call of Duty: Elite
+Ceylon (programming language)
+Chakra (JScript engine)
+ChromeOS
+Commodore OS
+CorelCAD
+Creatio
+Creation Engine
+Adobe Creative Cloud
+Dart (programming language)
+Dolphin Browser
+Extempore (software)
+Federated Wiki
+Firefox 4
+FL Studio Mobile
+GlobaLeaks
+GNOME 3
+Golaem Crowd
+Google Play Music
+Harmor
+HHVM
+HTML5 Boilerplate
+I Done This
+Calendar (Windows)
+ICloud
+Id Tech 5
+IFTTT
+Infinite Monkeys Appy Pie
+Internet Explorer 9
+IOS 5
+Jenkins (software)
+JsPHP
+KDE Telepathy
+Kotlin (programming language)
+LevelDB
+LibreCAD
+LibreOffice
+Lightbox.com

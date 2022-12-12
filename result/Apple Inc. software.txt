@@ -1,0 +1,40 @@
+List of Apple codenames
+Activity Monitor
+IAd Producer
+Apple Look Around
+Apple Podcasts
+Apple Pugetsound Program Library Exchange
+Apple Qadministrator
+Apple Qmaster
+Apple TV app
+AppleShare
+AppleSingle and AppleDouble formats
+AppleTalk
+AppleTalk Remote Access
+Audio Interchange File Format
+AVFoundation
+Batch Monitor (Apple)
+Bonjour Sleep Proxy
+Bozo bit
+CarPlay
+Cinema Tools
+Color (software)
+Compressor (software)
+Core Audio Format
+CSS animations
+Data Stream Interface
+DVD Studio Pro
+Enterprise Objects Framework
+Apple File Exchange
+Apple Filing Protocol
+Final Cut Pro
+Final Cut Pro X
+Final Cut Server
+Final Cut Studio
+FourCC
+Front Row (software)
+FXScript
+GarageBand
+HomeKit
+HotSauce
+IBooks Author

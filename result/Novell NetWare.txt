@@ -1,0 +1,20 @@
+Btrieve
+Dennis Fairclough
+Robert Frankenberg
+IFolder
+Internetwork Packet Exchange
+IPrint
+IPX/SPX
+Open Enterprise Server
+NetWare Access Server
+NetWare Core Protocol
+NetWare File System
+NetWare Link Services Protocol
+NetWare Loadable Module
+Ray Noorda
+Novell Storage Services
+Sequenced Packet Exchange
+Service Advertising Protocol
+SuperNOS
+System Fault Tolerance
+Yosemite Server Backup

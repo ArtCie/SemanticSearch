@@ -1,0 +1,7 @@
+Algebraic Logic Functional programming language
+Concurrent ML
+Curry (programming language)
+Dependent ML
+DUP programming language
+History of Ruby
+JoCaml

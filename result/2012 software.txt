@@ -1,0 +1,48 @@
+AC3Filter
+Adobe Experience Cloud
+Adobe Prelude
+Alto Mail
+Android Jelly Bean
+Anghami
+Apache Bloodhound
+Apache Brooklyn
+Apache OpenOffice
+Avare
+Band (software)
+Booktype
+Bubble (programming language)
+ColorZilla
+Comic Seer
+Apple Configurator
+Cylance
+Dashlane
+Datomic
+Doki (app)
+Elm (programming language)
+Field Trip (application)
+FixMyStreet
+ForgeLight
+Glue (software)
+Google Chrome for Android
+Google Drive
+Groove Music
+GstarCAD
+Internet Explorer 10
+IOS 6
+Julia (programming language)
+Kune (software)
+Landscape Express
+Libon (service)
+Linux Lite
+Loomio
+Luminous Engine
+Mail (Windows)
+Microsoft Fresh Paint
+Microsoft Photos
+Middleware for Robotic Applications
+Moment.me
+Moovit
+Adobe Muse
+Nemo (file manager)
+Nix (package manager)
+OBS Studio

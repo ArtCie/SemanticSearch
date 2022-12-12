@@ -1,0 +1,25 @@
+51-FORTH
+Basic Linear Algebra Subprograms
+Berkeley Yacc
+BLAKE (hash function)
+Climm
+CLIPS
+Compressed file library
+Daemontools
+Dataplot
+Dbndns
+Diamond Trust of London
+Djbdns
+EdDSA
+ELIZA
+EPANET
+Expect
+Ezmlm
+FFTPACK
+Foremost (software)
+Fowler–Noll–Vo hash function
+GeoTIFF
+Gh0st RAT
+God of Thunder (video game)
+Golgotha (video game)
+Guide to Available Mathematical Software

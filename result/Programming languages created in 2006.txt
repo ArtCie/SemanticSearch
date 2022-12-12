@@ -1,0 +1,9 @@
+AgentCubes
+Cobra (programming language)
+Fortress (programming language)
+Hop (software)
+Newspeak (programming language)
+OptimJ
+PowerShell
+Sass (stylesheet language)
+Vala (programming language)

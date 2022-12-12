@@ -1,0 +1,3 @@
+Apache Samza
+LinkedIn Pulse
+Voldemort (distributed data store)

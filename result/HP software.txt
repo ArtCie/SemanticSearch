@@ -1,0 +1,47 @@
+3DA
+Micro Focus Application Lifecycle Management
+HP Application Security Center
+HP Business Service Automation
+HP Business Service Management
+HP Client Automation Software
+HP Cloud Service Automation Software
+HP Data Protector
+Enscribe
+HP ePrint
+Fortify Software
+Hi Performance FileSystem
+HP Time-Shared BASIC
+HP-GL
+HP-UX
+HyperSpace (software)
+IceWall SSO
+Iconv
+HP Information Management Software
+InkML
+HP Integrity Virtual Machines
+HP IT Management Software
+HP Linux Imaging and Printing
+Mscape
+HP Network Management Center
+NewWave
+NonStop SQL
+HP Open Extensibility Platform (OXP)
+HP OpenMail
+HP OpenView
+HP OpenView Storage Area Manager
+PowerHouse (programming language)
+Printer Command Language
+Printer Job Language
+Micro Focus Quality Center
+QuickPlay
+Micro Focus Unified Functional Testing
+Hewlett-Packard Raster Transfer Language
+HP Release Control
+Remote Graphics Software
+HP Service Activator
+HP Service Manager software
+HP Serviceguard
+Micro Focus SiteScope
+System Object Model (file format)
+HPE Systems Insight Manager
+Systems Programming Language

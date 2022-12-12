@@ -1,0 +1,30 @@
+Apple Mail
+Arora (web browser)
+Dashboard (macOS)
+Google Chrome Frame
+Iris Browser
+Linkinus
+Mercury Browser
+Nokia Browser for Symbian
+Origyn Web Browser
+Otter Browser
+PhantomJS
+QtWeb
+Rekonq
+Roccat Browser
+Rockmelt
+Safari (web browser)
+Samsung Internet
+Shiira
+Sputnik (search engine)
+SRWare Iron
+Steam (service)
+Steel (web browser)
+Surf (web browser)
+Teashark
+Torch (browser)
+Uzbl
+WebOS
+WebPositive
+Xombrero
+Yandex Browser

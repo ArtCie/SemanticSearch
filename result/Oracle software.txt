@@ -1,0 +1,44 @@
+Appeal Virtual Machines
+Application Integration Architecture
+Automatic Storage Management
+Berkeley DB
+Oracle Big Data Appliance
+Oracle BPEL Process Manager
+CEMLI
+Change vector
+Oracle Clusterware
+Compass ERP
+Configurable Network Computing
+Oracle Database Appliance
+Oracle Discoverer
+DUAL table
+EnterpriseOne
+Essbase
+Oracle Exalogic
+Oracle Fusion Applications
+Oracle Fusion Architecture
+Oracle Fusion Middleware
+GraalVM
+InnoDB
+JDeveloper
+Jinitiator
+JRockit
+Maxine Virtual Machine
+Memory (storage engine)
+Nashorn (JavaScript engine)
+Object-PL/SQL
+OCFS2
+OpenJDK
+Oracle Adaptive Access Manager
+Oracle Advanced Queuing
+Oracle Advanced Security
+Oracle Application Development Framework
+Oracle Application Express
+Oracle Application Framework
+Oracle Application Server
+Oracle Applications
+Oracle Beehive
+Oracle BI Publisher
+Oracle BI server
+Oracle BPA Suite
+Oracle Business Intelligence Suite Enterprise Edition

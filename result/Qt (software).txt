@@ -1,0 +1,21 @@
+Qt Project
+Cameleon (programming language)
+GPlates
+List of language bindings for Qt 4
+List of language bindings for Qt 5
+List of platforms supported by Qt
+Meta-object System
+PyQt
+PySide
+Q Public License
+Qbs (build tool)
+Qmake
+QML
+The Qt Company
+Qt Creator
+Qt Quick
+Qt version history
+QtJambi
+QtScript
+Sharp Zaurus
+Signals and slots

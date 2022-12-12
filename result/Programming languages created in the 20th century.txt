@@ -1,0 +1,7 @@
+Alma-0
+PLANC
+Protel
+Rapira
+SPARK (programming language)
+Standard ML of New Jersey
+Zeno (programming language)

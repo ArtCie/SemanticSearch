@@ -1,0 +1,8 @@
+IBM Db2
+DB2 SQL return codes
+DBeaver
+IBM Data Magazine
+IBM Query Management Facility
+IBM Spufi
+PureXML
+SQL PL

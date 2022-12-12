@@ -1,0 +1,50 @@
+ABViewer
+Adobe Audition
+Adobe Creative Suite
+Adobe Encore
+Amarok (software)
+AMule
+AndreaMosaic
+Apache Groovy
+AVS Video Editor
+Awasu
+BitComet
+Boo (programming language)
+Camfrog
+CCleaner
+CDisplay
+Centricity
+Cheetah3D
+Chrome Engine
+Diana: Warrior Princess
+Dolibarr
+EBuddy
+Edius
+Empathy (software)
+Eraser (software)
+ExifTool
+Factor (programming language)
+GOM Player
+HandBrake
+Hugin (software)
+I2P
+Inkscape
+Jamroom
+Jitsi
+JMonkeyEngine
+KeePass
+Keynote (presentation software)
+LDAP Account Manager
+LMule
+M0n0wall
+Mac OS X Panther
+Math Kernel Library
+Media Player Classic
+Memcached
+Microsoft Dynamics 365 Sales
+Microsoft Office 2003
+Microsoft Office Picture Manager
+Microsoft OneNote
+Microsoft Voice Command
+Mnemosyne (software)
+MonoDevelop

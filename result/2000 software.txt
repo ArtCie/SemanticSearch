@@ -1,0 +1,49 @@
+Antenna House Formatter
+AnyLogic
+Apache Struts 1
+Audacity (audio editor)
+Autodesk Softimage
+Bacula
+BearShare
+Beonex Communicator
+BitKeeper
+C Sharp (programming language)
+CA Anti-Spyware
+ChatZilla
+Clickworkers
+CMake
+CoolType
+CuteMX
+Darwin (operating system)
+DivX
+DotProject
+Drupal
+EasyTag
+EDonkey2000
+Ekiga
+Embedix Browser
+FASM
+Finnix
+FOAF
+FogBugz
+Galeon
+GameSpy Arcade
+GCompris
+Gephi
+Google Toolbar
+GoVenture Educational Games and Simulations
+GraphCalc
+Havok (software)
+Join Java
+K Desktop Environment 2
+K-Meleon
+Kemp Technologies
+KingsRow
+LimeWire
+Mac OS X Public Beta
+MediaBrowser
+Microsoft BizTalk Server
+Microsoft Office 2001
+Miranda NG
+MorphOS
+MPlayer

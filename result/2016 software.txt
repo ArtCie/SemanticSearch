@@ -1,0 +1,50 @@
+.NET
+Abema
+AIVA
+Amazon Lumberyard
+Amazon Rekognition
+Android Nougat
+Angular (web framework)
+Artisto
+Beaker (web browser)
+Bigo Live
+Bitcoin Unlimited
+Bitwarden
+Brave (web browser)
+BridgeOS
+Classroom (Apple)
+Collabora Online
+Conductor (software)
+Crowdsource (app)
+Cryptomatte
+EncroChat
+Express Data Path
+FeatherPad
+Fine Art (software)
+Firefox Focus
+Forest (application)
+FreeShop
+Fuchsia (operating system)
+GamePigeon
+Gboard
+Gig Performer
+Gitea
+Google Allo
+Google Duo
+Google Travel
+Houseparty (app)
+Huggle (app)
+Id Tech 6
+IOS 10
+LightGBM
+LineageOS
+Lingua Libre
+MacOS Sierra
+Master (software)
+Mastodon (social network)
+MetaMask
+Microsoft Classroom
+Microsoft Cognitive Toolkit
+Microsoft Forms
+Microsoft Power Automate
+Miitomo

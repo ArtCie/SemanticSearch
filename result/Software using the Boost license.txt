@@ -1,0 +1,5 @@
+Asio C++ library
+Boost (C++ libraries)
+Dlib
+LEMON (C++ library)
+POCO C++ Libraries

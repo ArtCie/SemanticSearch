@@ -1,0 +1,23 @@
+AC3D
+Alphatk
+ASCEND
+BRL-CAD
+Elmer FEM solver
+Graphviz
+Ical (Unix)
+OfflineIMAP
+Pure Data
+PyMOL
+Sguil
+Shane's Chess Information Database
+TiK
+Tkabber
+Tkdesk
+Tkhtml
+Transcriber
+Vigor (software)
+VTK
+WaveSurfer
+Wish (Unix shell)
+XCircuit
+Xconq

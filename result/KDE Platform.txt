@@ -1,0 +1,4 @@
+KDE Image Plugin Interface
+KDE neon
+Oxygen Project
+QtRuby

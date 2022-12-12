@@ -1,0 +1,8 @@
+CBASIC
+Commodore BASIC
+FP (programming language)
+Icon (programming language)
+IDL (programming language)
+PEARL (programming language)
+Programming Computable Functions
+WSFN (programming language)

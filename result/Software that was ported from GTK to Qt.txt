@@ -1,0 +1,6 @@
+Avidemux
+PCMan File Manager
+TEA (text editor)
+Tribler
+Wireshark
+Yate (telephony engine)

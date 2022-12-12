@@ -1,0 +1,47 @@
+Brian Aker
+Ken Arnold
+Valerie Aurora
+Ashar Aziz
+Lars Bak (computer programmer)
+Andy Bechtolsheim
+Joshua Bloch
+Jeff Bonwick
+Jon Bosak
+Stephen R. Bourne
+Gilad Bracha
+Tim Bray
+David J. Brown (computer scientist)
+Paul Buchheit
+Bryan Cantrill
+Danese Cooper
+James Duncan Davidson
+Whitfield Diffie
+Richard P. Gabriel
+John Gage
+Richard Green (technologist)
+Arthur van Hoff
+Kim Jones (Sun)
+Bill Joy
+Kohsuke Kawaguchi
+Vinod Khosla
+Susan Landau
+Craig McClanahan
+Scott McNealy
+Larry McVoy
+Chris Melissinos
+Björn Michaelsen
+James G. Mitchell
+Steven Muchnick
+Alec Muffett
+Ian Murdock
+Patrick Naughton
+Seth Neiman
+Jakob Nielsen (usability consultant)
+John Ousterhout
+Greg Papadopoulos
+Radia Perlman
+Simon Phipps (programmer)
+William Raduchel
+David S. H. Rosenthal
+Wayne Rosing
+Bob Scheifler

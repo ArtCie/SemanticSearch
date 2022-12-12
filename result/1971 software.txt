@@ -1,0 +1,3 @@
+Ed (text editor)
+OS/8
+Stanford Research Institute Problem Solver

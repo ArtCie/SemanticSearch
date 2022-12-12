@@ -1,0 +1,11 @@
+BeeLine Reader
+Grammarly
+IMacros
+LanguageTool
+Myki (password manager)
+NewsGuard
+Our.News
+PayPal Honey
+Tampermonkey
+Video DownloadHelper
+Yahoo! Toolbar

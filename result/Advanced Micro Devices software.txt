@@ -1,0 +1,22 @@
+AMD APP SDK
+AMD CodeAnalyst
+AMD Core Math Library
+AMD GPU PerfStudio
+AMD HD3D
+AMD Stream SDK
+AMDgpu (Linux kernel module)
+ATI CAL SDK
+AMD Radeon Software
+Close to Metal
+CodeXL
+Framewave
+GPU PerfStudio
+GPUOpen
+HLSL2GLSL
+Mantle (API)
+AMD PowerPlay
+AMD PowerTune
+ROCm
+TressFX
+Xilinx ISE
+Xilinx Vivado

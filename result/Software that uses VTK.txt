@@ -1,0 +1,11 @@
+3D Slicer
+Deal.II
+FreeSurfer
+Ginkgo CADx
+InVesalius
+MayaVi
+Molekel
+MOOSE (software)
+ParaView
+VisIt
+VisTrails

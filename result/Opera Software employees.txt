@@ -1,0 +1,5 @@
+Lars Boilesen
+Ian Hickson
+Geir Ivarsøy
+Håkon Wium Lie
+Jon Stephenson von Tetzchner

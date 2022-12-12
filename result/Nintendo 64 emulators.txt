@@ -1,0 +1,4 @@
+Mupen64Plus
+Nintendo Switch Online
+Project64
+UltraHLE

@@ -1,0 +1,44 @@
+IBM Type-III Library
+IBM 709/90 9PAC
+IBM 1401 Symbolic Programming System
+Address constant
+Advanced Function Presentation
+IBM Advanced Peer-to-Peer Networking
+IBM Advanced Program-to-Program Communication
+Aglets
+IBM ALP
+Andalé Mono
+Apache Derby
+Attached Support Processor
+Authorized Program Analysis Report
+Autocoder
+IBM Basic Assembly Language and successors
+IBM Business System 12
+CALL/360:BASIC
+Cgidev2
+IBM Check Processing Control System
+CICS
+CICS Transaction Gateway
+CLEVER project
+IBM Cloudscape
+IBM Cognos Analytics
+Cognos ReportNet
+Commercial Processing Workload
+Common Base Event
+Common Programming Interface for Communications
+IBM Common User Access
+IBM Configuration Management Version Control
+Conversational Programming System
+CoScripter
+CPLEX
+Criminal Reduction Utilising Statistical History
+IBM Current
+DAC-1
+Data Language Interface
+IBM Developer
+IBM Director
+IBM DISOSS
+IBM DisplayWrite
+Document Content Architecture
+EasyWriter
+Eclipse (software)

@@ -1,0 +1,35 @@
+Avast Antivirus
+Avast SecureLine VPN
+Batch Enhancer
+Drive Image (software)
+Ghost (disk utility)
+GrandView (software)
+HMA (VPN)
+Norton (software)
+Norton 360
+Norton AntiBot
+Norton ConnectSafe
+Norton Family
+Norton Insight
+Norton Internet Security
+Norton LiveUpdate
+Norton PC Checkup
+Norton Personal Firewall
+Norton Power Eraser
+Norton Safe Web
+Norton Security
+Norton System Insight
+Norton SystemWorks
+Norton Utilities
+PartitionMagic
+PcAnywhere
+Q&A (Symantec)
+Norton CleanSweep
+Recuva
+SONAR (Symantec)
+Speccy
+Symantec Endpoint Protection
+Symantec Operations Readiness Tools
+Enterprise Vault
+THINK Reference
+WinFax
