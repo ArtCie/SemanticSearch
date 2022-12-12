@@ -1,0 +1,5 @@
+ND-COSMOS
+ND-NOTIS
+Nord Programming Language
+Norsk Data Assembler
+Sintran

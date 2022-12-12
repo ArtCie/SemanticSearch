@@ -1,4 +1,3 @@
-COBOL
 88 level
 BLIS/COBOL
 Burroughs Medium Systems
@@ -24,7 +23,6 @@ COBOL85
 CobolScript
 CODASYL
 Data Base Task Group
-FLOW-MATIC
 GnuCOBOL
 Mary K. Hawes
 Betty Holberton

@@ -1,0 +1,37 @@
+Aarogya Setu
+AlphaFold 2
+Android 11
+BlueTrace
+CBL-Mariner
+Celia (virtual assistant)
+Clubhouse (app)
+Coronavirus Australia
+COVID-19 Contact-Confirming Application
+DeepSpeed
+Fluid Framework
+IOS 14
+Libgcrypt
+MacOS Big Sur
+MySejahtera
+Nacsport Video Analysis Software
+Nettle (cryptographic library)
+NHS COVID-19
+OneFuzz
+Open Service Mesh
+PeduliLindungi
+QLattice
+QuarantineChat
+SafeEntry
+SafePass
+Satin (codec)
+Spotify Live
+StaySafe.ph
+TCN Protocol
+TraceTogether
+Translate (Apple)
+TVING
+Ubuntu Unity
+Unity Operating System
+Windows Package Manager
+Zoe Health Study
+Zynn

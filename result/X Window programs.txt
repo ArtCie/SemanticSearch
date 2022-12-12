@@ -1,0 +1,26 @@
+Alacritty
+GNOME Terminator
+Kitty (terminal emulator)
+Mrxvt
+PDFedit
+Plan (calendar program)
+Rxvt
+SharedX
+Terminator (terminal emulator)
+Wily (text editor)
+X11vnc
+Xawtv
+Xbase-clients
+Xbiff
+Xcopilot
+Xgraph
+Xkill
+Xmove
+XMule
+Xpra
+XScreenSaver
+Xsnow
+Xterm
+Xv (software)
+Xwd
+Xzgv

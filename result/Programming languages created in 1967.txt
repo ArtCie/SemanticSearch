@@ -1,0 +1,6 @@
+Absys
+BCPL
+LEAP (programming language)
+Logo (programming language)
+PAL (programming language)
+XPL

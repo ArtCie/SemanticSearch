@@ -1,0 +1,12 @@
+MIT License
+CarneyVale: Showtime
+FFTW
+Haystack (MIT project)
+Hesiod (name service)
+Kerberos (protocol)
+TECO (text editor)
+Ur (programming language)
+X Athena Widgets
+X Window System
+Xv6
+Zephyr (protocol)

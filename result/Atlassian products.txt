@@ -1,0 +1,8 @@
+Bitbucket
+Bitbucket Server
+Confluence (software)
+Crucible (software)
+HipChat
+Jira Studio
+Stride (software)
+Trello

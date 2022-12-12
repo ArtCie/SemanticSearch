@@ -1,0 +1,21 @@
+JavaStation
+SPARCclassic
+SPARCstation 1
+SPARCstation 2
+SPARCstation 4
+SPARCstation 5
+SPARCstation 10
+SPARCstation 20
+SPARCstation IPC
+SPARCstation IPX
+SPARCstation LX
+SPARCstation ZX
+Sun Blade (workstation)
+Sun Java Workstation
+Sun386i
+Ultra 1
+Ultra 5/10
+Ultra 24
+Ultra 30
+Ultra 60
+Ultra 80

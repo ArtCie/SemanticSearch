@@ -1,0 +1,11 @@
+BlueGriffon
+Boxee
+Celtx
+Conkeror
+Lightning (software)
+Mozilla application framework
+Mozilla Mail & Newsgroups
+Qiqqa
+SubTile
+XUL
+XULRunner

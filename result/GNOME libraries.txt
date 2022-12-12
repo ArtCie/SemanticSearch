@@ -1,0 +1,14 @@
+Cairo (graphics)
+Clutter (software)
+GIO (software)
+GLib
+GNOME-DB
+GObject
+HarfBuzz
+Java-gnome
+Libart
+Librsvg
+Libxml2
+Libxslt
+Pango
+Poppler (software)

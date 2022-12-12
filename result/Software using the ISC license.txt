@@ -1,0 +1,15 @@
+Agrep
+BIND
+Bitrig
+DHCPD
+Fdm (software)
+Host (Unix)
+Hw.sensors
+InterNetNews
+Kmscon
+LV2
+Metronome IM
+Nhttpd
+Ripple (payment protocol)
+Sudo
+Tmux

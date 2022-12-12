@@ -1,0 +1,17 @@
+Akonadi
+Flake (software)
+KGlobalAccel
+KIO
+KJS (software)
+KNewStuff
+KPart
+KParts
+Kross (software)
+KRunner
+NEPOMUK (software)
+Phonon (software)
+Plasma-framework
+Solid (KDE)
+Sonnet (software)
+ThreadWeaver
+XMLGUI

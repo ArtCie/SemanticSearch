@@ -1,0 +1,17 @@
+AmiZilla
+Classilla
+Firefox for Android
+GNU IceCat
+Instantbird
+Kazehakase
+Komodo Edit
+Komodo IDE
+KompoZer
+Light (web browser)
+Mozilla Sunbird
+Mozilla Thunderbird
+Nightingale (software)
+SeaMonkey
+Songbird (software)
+TenFourFox
+Waterfox

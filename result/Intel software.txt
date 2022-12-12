@@ -1,0 +1,26 @@
+Intel Advisor
+Intel AppUp
+Intel Array Building Blocks
+Intel Array Visualizer
+Intel C++ Compiler
+Data Analytics Library
+Intel Debugger
+Intel Fortran Compiler
+IMAX 432
+Indeo
+Intel Inspector
+Integrated Performance Primitives
+ISIS (operating system)
+Intel LANSpool
+MeeGo
+Offset Software
+OpenedHand
+Intel Parallel Building Blocks
+Intel Parallel Studio
+Reactor (software)
+River Trail (JavaScript engine)
+RMX (operating system)
+Threading Building Blocks
+Tizen
+VTune
+VxWorks

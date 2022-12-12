@@ -1,0 +1,48 @@
+3DMark
+AbiWord
+ActionScript
+Adobe Fireworks
+Adobe ImageReady
+Advanced Linux Sound Architecture
+Anvil Studio
+Audiogalaxy
+Calligra
+CD Player (Windows)
+CrypTool
+Dark Engine
+DemoLinux
+DigitaOS
+Do3D
+Exact Audio Copy
+FLEXPART
+FreeDOS
+Ganymede (software)
+GoldSrc
+GoToMyPC
+Java 3D
+JEdit
+Junos OS
+K Desktop Environment 1
+KDE Projects
+KDE Software Compilation
+LAME
+LithTech
+Microsoft Dynamics 365 Finance
+Microsoft Office 98 Macintosh Edition
+Minä Peräsmies
+MinGW
+Mozilla Application Suite
+OpenSSL
+ORBexpress
+Paltalk
+PCon.planner
+PhotoRec
+Pidgin (software)
+Portable Batch System
+PowerDVD
+Project Unreality
+Projectplace (software)
+ProjectWise
+PureBasic
+PuTTY
+ReactOS

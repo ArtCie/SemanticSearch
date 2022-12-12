@@ -1,0 +1,3 @@
+Аналитик
+ALGOL 68
+Interlisp

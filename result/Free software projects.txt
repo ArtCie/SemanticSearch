@@ -1,0 +1,37 @@
+ACROSS Project
+Advanced transportation controller
+AIGLX
+Between the Bars (blog)
+BioBIKE
+BioMart
+Bird Internet routing daemon
+Bluecurve
+Citrus Project
+CMU Sphinx
+Code for America Commons
+Distributed version control
+ElabFTW
+Embroidermodder
+Falkon
+Freedom Toaster
+Gazebo simulator
+Gleducar
+GlobalSight
+Guardian Project (software)
+Haven (software)
+HippoDraw
+HSA Foundation
+HuMo-gen
+Hypothes.is
+IPodLinux
+JuffEd
+Julius (software)
+Kaldi (software)
+KAME project
+KARL project
+KNIME
+Lambda architecture
+Leafpad
+Lemur Project
+Libburnia
+LimeSurvey

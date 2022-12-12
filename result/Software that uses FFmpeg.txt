@@ -1,0 +1,15 @@
+ALLPlayer
+Cinelerra
+DVD Flick
+FFmpeg
+Kdenlive
+Libav
+Losslesscut
+Mpv (media player)
+Shotcut
+Streamlabs
+Subtitle Composer
+SView
+VirtualDub
+VMix
+XMedia Recode

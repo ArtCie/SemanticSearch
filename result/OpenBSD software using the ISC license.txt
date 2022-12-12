@@ -1,0 +1,10 @@
+Cwm (window manager)
+Mandoc
+OpenBGPD
+OpenIKED
+OpenNTPD
+OpenOSPFD
+OpenSMTPD
+Sensorsd
+Sndio
+Spamd

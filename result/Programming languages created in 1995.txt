@@ -1,0 +1,6 @@
+JavaScript
+Lasso (programming language)
+Mercury (programming language)
+Racket (programming language)
+Ruby (programming language)
+Yabasic

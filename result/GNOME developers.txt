@@ -1,0 +1,15 @@
+Magdalen Berns
+Behdad Esfahbod
+Nat Friedman
+Matthew Garrett
+GNOME Project
+Miguel de Icaza
+Robert Love
+Michael Meeks (software developer)
+Havoc Pennington
+Ettore Perazzoli
+Stormy Peters
+Damien Sandras
+Maciej Stachowiak
+Luis Villa
+Jeff Waugh

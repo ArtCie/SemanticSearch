@@ -1,0 +1,12 @@
+Accent kernel
+Alice (software)
+Andrew File System
+Andrew Project
+Capability Maturity Model Integration
+CERT Coding Standards
+CMU Common Lisp
+Coda (file system)
+Cyrus IMAP server
+Hydra (operating system)
+Lycos
+Mach (kernel)

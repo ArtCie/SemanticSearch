@@ -1,0 +1,19 @@
+Allegro (software library)
+AngelScript
+Bullet (software)
+ClanLib
+Delver
+GLFW
+Irrlicht Engine
+JScheme
+Liblzg
+Löve (game engine)
+Newton Game Dynamics
+Nullsoft Scriptable Install System
+OpenCTM
+ORX
+Simple and Fast Multimedia Library
+Simple DirectMedia Layer
+TinyXML
+Tokamak (software)
+Zlib

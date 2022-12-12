@@ -1,0 +1,32 @@
+CRIU
+Ethtool
+Ipkg
+Iproute2
+Iptables
+KernelCare
+Kpatch
+Ksplice
+Linux Virtual Server
+Linux-VServer
+Lmctfy
+LXC
+Mausezahn
+Netsniff-ng
+NuFW
+OFono
+Open Movie Editor
+Opkg
+PISI
+Qtractor
+Slackpkg
+Slapt-get
+Swaret
+SYSLINUX
+Systemd
+Systemd-boot
+SystemTap
+Uswsusp
+WebScaleSQL
+Weston (software)
+Wireless tools for Linux
+Xplico

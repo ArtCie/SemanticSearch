@@ -1,0 +1,2 @@
+Comparison of ALGOL 68 and C++
+Andrey Terekhov

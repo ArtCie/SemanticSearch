@@ -1,0 +1,13 @@
+Asunder (software)
+Denemo
+EasyEffects
+Grip (software)
+Gtkpod
+Music Player Daemon
+NtEd
+OggConvert
+Scala (software)
+Sound Juicer
+Tangerine (software)
+TiMidity++
+TuxGuitar

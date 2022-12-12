@@ -1,0 +1,48 @@
+Agent.AWF
+Alina (malware)
+Andromeda (trojan)
+Backdoor.Win32.Seed
+Beast (Trojan horse)
+BlackEnergy
+BlackPOS Malware
+Blackshades
+Bohmini.A
+CenterPOS Malware
+Citadel (malware)
+Coreflood
+CryptoLocker
+DoublePulsar
+Download.ject
+Dridex
+Emotet
+Extended Copy Protection
+Fakesysdef
+FastPOS
+Festi
+Fireball (software)
+Gameover ZeuS
+Havex
+Hitler-Ransomware
+Hupigon
+Industroyer
+Kenzero
+Kronos (malware)
+Locky
+Mahdi (malware)
+Malumpos Malware
+Mebroot
+MEMZ
+MonaRonaDona
+MultigrainMalware
+NjRAT
+PGPCoder
+PoSeidon (malware)
+Project Sauron
+PunkeyPOS Malware
+Ramsay Malware
+Sony BMG copy protection rootkit scandal
+SpyEye
+SpySheriff
+SpywareStrike
+Sub7
+Swizzor

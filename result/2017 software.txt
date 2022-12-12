@@ -1,0 +1,50 @@
+Act.IL
+Adobe Dimension
+Alice (virtual assistant)
+AlphaGo Zero
+AlphaZero
+Amazon SageMaker
+AMD Optimizing C/C++ Compiler
+Amikumu
+Android Oreo
+Apple File System
+ArcaOS
+Ballerina (programming language)
+Bixby (software)
+Casync
+CatBoost
+Clips (software)
+Clova (virtual assistant)
+Co–Star
+Collaborator (software)
+Data Version Control
+Decentraland
+Eclipse Theia
+Enlight Quickshot
+EOS.IO
+Filecoin
+Files (Apple)
+Flutter (software)
+Fractured Minds
+Google Chat
+Google Lens
+Google Meet
+Guilded
+Here One
+Hily
+Horovod (machine learning)
+Hyperbola GNU/Linux-libre
+HyperTrack
+IOS 11
+JanusGraph
+Jeremy Renner Official
+KaiOS
+Leela Zero
+LoLa (software)
+Luminar (software)
+MacOS High Sierra
+Messenger Kids
+Microsoft Kaizala
+Microsoft Stream
+Mirage World (app)
+Neural Network Intelligence

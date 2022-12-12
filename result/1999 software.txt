@@ -1,0 +1,50 @@
+3D World Atlas
+7-Zip
+Ad-Aware
+Adaptive Multi-Rate audio codec
+Adobe InCopy
+Adobe InDesign
+Aladin Sky Atlas
+Anim8or
+Apache Lucene
+Apache OpenEJB
+ArgoUML
+Ashampoo Burning Studio
+Asterisk (PBX)
+Audion (software)
+Autodesk Inventor
+BlueSoleil
+Borland Enterprise Server
+Centericq
+Coccinella (software)
+Corel Linux
+CUPS
+Daria's Sick, Sad Life Planner
+DC++
+DeCSS
+Dillo
+Embrowser
+Envsys
+EpiData
+Fraps
+FreeBSD jail
+GameMaker
+GameRanger
+GNOME
+GNOME 1
+GNU Privacy Guard
+Harbour (programming language)
+ICab
+Icecast
+Id Tech 3
+ILife
+IMesh
+Internet Explorer 5
+Irssi
+KDevelop
+KHTML
+Lazarus (software)
+LeJOS
+Libzip
+Links (web browser)
+Linux-HA

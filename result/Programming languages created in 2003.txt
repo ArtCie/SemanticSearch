@@ -1,0 +1,9 @@
+Go! (programming language)
+JAL (compiler)
+Nemerle
+PSeInt
+Sawzall (programming language)
+Scala (programming language)
+Scratch (programming language)
+Squirrel (programming language)
+Urbiscript

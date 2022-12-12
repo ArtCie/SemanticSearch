@@ -1,0 +1,43 @@
+Concurrent CP/M
+Concurrent CP/M 8-16
+Concurrent CP/M with Windows
+Concurrent CP/M-68K
+Concurrent CP/M-86
+Concurrent CP/M-86 with Windows
+Concurrent CP/M-86/80
+Concurrent DOS
+Concurrent DOS 8-16
+Concurrent DOS 68K
+Concurrent DOS 86
+Concurrent DOS 286
+Concurrent DOS 386
+Concurrent DOS 386/MGE
+Concurrent DOS V60
+Concurrent DOS XM
+Concurrent PC DOS
+CP/M 8-16
+CP/M Plus
+CP/M-68K
+CP/M-80
+CP/M-85
+CP/M-86 Plus
+CP/M-86/80
+CP/M-8000
+Digital Research operating systems
+EZ-DOS
+FlexOS
+FlexOS 68K
+FlexOS 186
+FlexOS 286
+FlexOS 386
+GEMDOS
+Kanji CP/M-86
+MP/M 8-16
+MP/M II
+MP/M-80
+MP/M-86
+MP/M-286
+Multiuser DOS
+Personal CP/M
+Personal CP/M-80
+Personal CP/M-86

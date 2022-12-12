@@ -1,3 +1,2 @@
 DARSIMCO
 Information Processing Language
-Symbolic Assembly Program

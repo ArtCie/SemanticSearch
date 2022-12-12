@@ -1,0 +1,29 @@
+ActiveVFP
+ADO.NET
+Adobe Source Libraries
+AfterStep
+AIDA/Web
+AirSim
+AppImage
+Beautiful Soup (HTML parser)
+Behat (computer science)
+Bitmessage
+Blackbox
+Blosxom
+Bolt (CMS)
+Bouncy Castle (cryptography)
+BRender
+Browserify
+Cafu Engine
+CakePHP
+Camping (microframework)
+Cannon.js
+Capistrano (software)
+Capybara (software)
+CEGUI
+Chainer
+Chakra (JavaScript engine)
+Chart.js
+Chipmunk (software)
+Chord (peer-to-peer)
+CLiki
