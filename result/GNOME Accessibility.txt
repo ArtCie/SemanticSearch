@@ -1,8 +1,0 @@
-Accessibility Toolkit
-Assistive Technology Service Provider Interface
-Dasher (software)
-ESpeak
-Gnopernicus
-Linux Screen Reader
-Orca (assistive technology)
-Speech recognition software for Linux

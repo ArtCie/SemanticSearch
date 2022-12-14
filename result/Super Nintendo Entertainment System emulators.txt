@@ -1,3 +1,0 @@
-Higan (emulator)
-Snes9x
-ZSNES

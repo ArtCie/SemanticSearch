@@ -1,6 +1,0 @@
-Euclid (programming language)
-LSE (programming language)
-PL-6
-PLEX (programming language)
-SYMPL
-ZOPL

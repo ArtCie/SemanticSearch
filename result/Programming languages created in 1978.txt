@@ -1,4 +1,0 @@
-A Manufacturing Language
-Atari BASIC
-DG/L
-Modula-2

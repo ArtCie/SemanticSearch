@@ -1,5 +1,0 @@
-AMPL
-Atari ST BASIC
-Caml
-Emacs Lisp
-MLAB

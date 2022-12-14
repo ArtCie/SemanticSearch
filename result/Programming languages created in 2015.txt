@@ -1,2 +1,0 @@
-Raku (programming language)
-Zig (programming language)

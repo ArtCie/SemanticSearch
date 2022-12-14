@@ -1,5 +1,0 @@
-KDE Plasma 4
-KDE Plasma 5
-Plasma Mobile
-Sailfish OS
-Simple Desktop Display Manager

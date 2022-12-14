@@ -1,7 +1,0 @@
-CONFER (software)
-Edinburgh Multiple Access System
-Lisp Machine Lisp
-MUSIC/SP
-PROMIS (software)
-Query by Example
-ZOG (hypertext)

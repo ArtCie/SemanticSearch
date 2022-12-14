@@ -1,4 +1,0 @@
-DR-OpenDOS
-Caldera OpenDOS
-OpenDOS
-Caldera OpenLinux

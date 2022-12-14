@@ -1,4 +1,0 @@
-Electric Pencil
-Emacs
-FLEX (operating system)
-INP (database)

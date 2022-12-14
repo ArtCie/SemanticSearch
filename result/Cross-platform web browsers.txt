@@ -1,5 +1,0 @@
-Epic (web browser)
-Naver Whale
-Qutebrowser
-Sleipnir (web browser)
-Vivaldi (web browser)

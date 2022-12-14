@@ -1,6 +1,0 @@
-JADE (programming language)
-OCaml
-SQL/PSM
-Squeak
-VBScript
-Yorick (programming language)

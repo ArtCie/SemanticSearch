@@ -1,5 +1,0 @@
-GameCube
-GameCube online functionality
-GameCube technical specifications
-Gekko (microprocessor)
-Panasonic Q

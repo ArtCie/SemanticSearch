@@ -1,4 +1,0 @@
-Frink (programming language)
-Processing
-Reo Coordination Language
-XHarbour

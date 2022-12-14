@@ -1,7 +1,0 @@
-CP/M
-Diff
-HP Multi-Programming Executive
-IBM System R
-MONECS
-MVS
-Sintran III

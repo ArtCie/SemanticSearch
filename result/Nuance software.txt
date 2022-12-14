@@ -1,5 +1,0 @@
-Dragon NaturallySpeaking
-MacSpeech
-OmniPage
-PaperPort
-T9 (predictive text)

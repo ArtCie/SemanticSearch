@@ -1,4 +1,0 @@
-Digital Universe Atlas
-Emscripten
-LLDB (debugger)
-LLVM

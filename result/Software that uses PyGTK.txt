@@ -1,6 +1,0 @@
-Avant Window Navigator
-Deluge (software)
-Gajim
-OpenEV
-PyRoom
-Virtaal

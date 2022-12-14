@@ -1,6 +1,0 @@
-CLU (programming language)
-Microsoft BASIC
-Modula
-PL/0
-Scheme (programming language)
-Tiny BASIC

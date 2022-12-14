@@ -1,4 +1,0 @@
-Dylan (programming language)
-Gödel (programming language)
-ProvideX
-SQL-92

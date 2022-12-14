@@ -1,7 +1,0 @@
-Blink (SIP client)
-Fire (instant messaging client)
-GNUMail
-GNUstepWeb
-Gorm (computing)
-TeXShop
-TextEdit

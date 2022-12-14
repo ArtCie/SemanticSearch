@@ -1,7 +1,0 @@
-C++Builder
-Delphi (software)
-InterBase
-JBuilder
-RadPHP
-Turbo C Sharp
-Turbo Delphi

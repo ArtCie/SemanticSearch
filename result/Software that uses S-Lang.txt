@@ -1,2 +1,0 @@
-JED (text editor)
-Slrn

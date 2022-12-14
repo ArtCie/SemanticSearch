@@ -1,9 +1,0 @@
-Abaqus
-Apple DOS
-C shell
-HDOS
-PTDOS
-Scripsit
-Termcap
-TeX
-WordStar

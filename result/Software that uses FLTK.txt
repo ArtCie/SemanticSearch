@@ -1,6 +1,0 @@
-Avimator
-FLWM
-Gmsh
-Nuke (software)
-Yoshimi (synthesizer)
-ZynAddSubFX

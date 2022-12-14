@@ -1,6 +1,0 @@
-4th Dimension (software)
-MSX BASIC
-Common Lisp
-Coq
-Modula-2+
-Verilog

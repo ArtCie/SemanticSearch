@@ -1,5 +1,0 @@
-Modula-3
-OpenLisp
-PicoLisp
-Tcl
-Wolfram Language

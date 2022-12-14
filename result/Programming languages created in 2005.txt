@@ -1,6 +1,0 @@
-Basic4ppc
-F Sharp (programming language)
-Fantom (programming language)
-Haxe
-Linotte
-Seed7

@@ -1,3 +1,0 @@
-Parser (programming language)
-Rebol
-Tea (programming language)

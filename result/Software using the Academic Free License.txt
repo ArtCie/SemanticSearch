@@ -1,7 +1,0 @@
-CoreASM
-Dojo Toolkit
-HAL (software)
-Magento
-Maqetta
-MASON (Java)
-MochiKit

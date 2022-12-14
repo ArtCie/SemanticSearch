@@ -1,7 +1,0 @@
-ArtWorks
-Designer Castles
-Impression (software)
-List of RISC OS bundled applications
-Philip's Music Writer
-Sibelius (scorewriter)
-TechWriter

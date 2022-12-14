@@ -1,7 +1,0 @@
-ALCOR
-Cornell University Programming Language
-FARGO (programming language)
-Flex (programming language)
-IBM RPG II
-Klerer–May System
-WATFIV

@@ -1,7 +1,0 @@
-Microsoft Small Basic
-Mirah (programming language)
-Nim (programming language)
-PCASTL
-Pure (programming language)
-SPARQL
-Umple

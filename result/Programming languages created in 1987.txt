@@ -1,4 +1,0 @@
-Action description language
-HyperTalk
-Perl
-SCUMM

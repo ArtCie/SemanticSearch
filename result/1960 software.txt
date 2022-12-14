@@ -1,3 +1,0 @@
-Colossal Typewriter
-IBM 7090/94 IBSYS
-MARS (ticket reservation system)

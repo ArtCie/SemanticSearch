@@ -1,4 +1,0 @@
-Dartmouth BASIC
-CDC SCOPE
-Dartmouth Time Sharing System
-TOPS-10

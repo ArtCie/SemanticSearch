@@ -1,7 +1,0 @@
-Edos
-OS/VS1
-OS/VS2 (SVS)
-PRIMOS
-RSX-11
-Smalltalk
-Source Code Control System

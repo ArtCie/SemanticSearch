@@ -1,4 +1,0 @@
-Keychain (software)
-OpenPlay
-XNU
-XQuartz

@@ -1,4 +1,0 @@
-BLISS
-DIBOL
-PL/C
-POP-2

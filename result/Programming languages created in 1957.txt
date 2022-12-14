@@ -1,5 +1,0 @@
-COMIT
-COMTRAN
-GEORGE (programming language)
-MATH-MATIC
-Programmation Automatique des Formules

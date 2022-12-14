@@ -1,6 +1,0 @@
-D-Bus
-Farstream
-GStreamer
-Pitivi
-PulseAudio
-Wayland (display server protocol)

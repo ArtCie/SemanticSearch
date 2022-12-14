@@ -1,2 +1,0 @@
-OpenLaszlo
-Windows Template Library

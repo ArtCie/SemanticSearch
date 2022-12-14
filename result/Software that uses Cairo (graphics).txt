@@ -1,6 +1,0 @@
-FLTK
-Frama-C
-Gecko (software)
-GNUstep
-Goanna (software)
-Scribus

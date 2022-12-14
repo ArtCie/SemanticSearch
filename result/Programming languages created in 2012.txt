@@ -1,5 +1,0 @@
-Eff (programming language)
-Elixir (programming language)
-M Sharp
-P (programming language)
-TypeScript

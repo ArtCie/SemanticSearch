@@ -1,6 +1,0 @@
-BEAST (music composition)
-Ecasound
-Gnome Wave Cleaner
-Jokosher
-SoundTracker (Unix)
-Sweep (software)
