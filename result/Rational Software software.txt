@@ -1,9 +1,0 @@
-Rational ClearCase
-Rational DOORS
-Rational Performance Tester
-PurifyPlus
-Rational Rhapsody
-IBM Rational Rose XDE
-Rational Software Modeler
-Rational Synergy
-Rational Unified Process

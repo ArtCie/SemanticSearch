@@ -1,5 +1,0 @@
-CommunityViz
-CrimeAnalyst
-CrimeView
-GeoSTAC
-GeoTime

@@ -1,4 +1,0 @@
-CPython
-IDLE
-Jython
-Stackless Python

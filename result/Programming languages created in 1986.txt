@@ -1,7 +1,0 @@
-Vilnius BASIC
-Eiffel (programming language)
-Erlang (programming language)
-EusLisp Robot Programming Language
-Oberon (programming language)
-Object Pascal
-Objective-C

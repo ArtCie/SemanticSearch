@@ -1,8 +1,0 @@
-DEC SED
-EDT (Digital)
-EVE (text editor)
-GNU Emacs
-Language-Sensitive Editor
-Red (text editor)
-Vile (text editor)
-VITPU

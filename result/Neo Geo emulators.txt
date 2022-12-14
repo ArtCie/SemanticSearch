@@ -1,3 +1,0 @@
-NeoCD
-OpenEmu
-Virtual Console

@@ -1,4 +1,0 @@
-AdriPSX
-Connectix Virtual Game Station
-EPSXe
-PCSX-Reloaded

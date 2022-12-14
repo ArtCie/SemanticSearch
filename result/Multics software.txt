@@ -1,4 +1,0 @@
-Maclisp
-Macsyma
-Multics Emacs
-Multics Relational Data Store

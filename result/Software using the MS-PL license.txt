@@ -1,9 +1,0 @@
-ASP.NET AJAX
-Meta.Numerics
-Microsoft Enterprise Library
-MonoGame
-NodeXL
-Sandcastle (software)
-StyleCop
-SVNBridge
-XSP (software)

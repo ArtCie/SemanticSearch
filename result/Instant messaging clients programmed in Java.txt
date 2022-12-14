@@ -1,6 +1,0 @@
-AndroidChat
-PJIRC
-Signal (software)
-TextSecure
-WLIrc
-Yaaic

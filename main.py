@@ -7,10 +7,10 @@ def main():
     # wikipedia_scraper = WikipediaScraper()
     # wikipedia_scraper.scrap_data('category:Software')
 
-    # corpus_builder = CorpusBuilder()
-    # corpus_builder.build_corpus_file()
-    # corpus = corpus_builder.build_corpus()
-    # print(corpus)
+    corpus_builder = CorpusBuilder()
+    corpus_builder.build_corpus_file()
+    corpus = corpus_builder.build_corpus()
+    print(corpus)
 
     gui = InterfaceMain()
     gui.draw()

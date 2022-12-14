@@ -1,4 +1,0 @@
-Database Workbench
-Epictetus Database Client
-Orbada
-SQuirreL SQL Client

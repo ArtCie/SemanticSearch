@@ -1,5 +1,0 @@
-Moonlight (runtime)
-NCryptoki
-VC-1
-Microsoft Silverlight version history
-Visifire

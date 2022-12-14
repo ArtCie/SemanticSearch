@@ -1,9 +1,0 @@
-Data Display Debugger
-FEFLOW
-Grace (plotting tool)
-IRIX Interactive Desktop
-NEdit
-Universal Data Element Framework
-Visual User Environment
-X.desktop
-Xpdf

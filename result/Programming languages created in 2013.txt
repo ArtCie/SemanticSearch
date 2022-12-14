@@ -1,4 +1,0 @@
-Hy
-Lean (proof assistant)
-PureScript
-Wyvern (programming language)

@@ -1,4 +1,0 @@
-BBC BASIC
-IBM BASIC
-JR-BASIC
-Karel (programming language)

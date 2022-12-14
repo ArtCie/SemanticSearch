@@ -1,5 +1,0 @@
-C++
-Clascal
-GW-BASIC
-Occam (programming language)
-VHDL

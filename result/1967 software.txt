@@ -1,5 +1,0 @@
-Conversational Monitor System
-Incompatible Timesharing System
-Michigan Terminal System
-TSS (operating system)
-WAITS

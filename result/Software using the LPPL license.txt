@@ -1,4 +1,0 @@
-LaTeX Project Public License
-Pkfix
-Powerdot
-TeX Live

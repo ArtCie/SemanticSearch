@@ -1,3 +1,0 @@
-Novell DOS
-PalmDOS
-UnixWare

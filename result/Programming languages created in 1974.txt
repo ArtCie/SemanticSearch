@@ -1,4 +1,0 @@
-ELAN (programming language)
-GRASS (programming language)
-Sed
-SQL

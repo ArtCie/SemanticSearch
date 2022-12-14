@@ -1,4 +1,0 @@
-Family Computer Emulator
-Multi Emulator Super System
-NESticle
-Nestopia

@@ -1,6 +1,0 @@
-GPL linking exception
-ERIKA Enterprise
-GNAT
-GNU Classpath
-GNU Guile
-UWSGI

@@ -1,3 +1,0 @@
-CORC
-FORMAC
-Language H

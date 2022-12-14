@@ -1,6 +1,0 @@
-Flowblade
-OpenShot
-PyChess
-Sigrok
-Ubuntu Software Center
-Virtual Machine Manager

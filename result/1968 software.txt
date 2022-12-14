@@ -1,6 +1,0 @@
-IBM Airline Control Program
-NATO Software Engineering Conferences
-THE multiprogramming system
-Time Sharing Operating System
-TSS/8
-VP/CSS
