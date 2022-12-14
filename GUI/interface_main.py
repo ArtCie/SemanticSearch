@@ -1,11 +1,13 @@
 from tkinter import Tk, LabelFrame, Label, StringVar, Entry, Button, ttk
 
+import engine.tokenization
+import engine.semantic_analyze
+import engine.distance
+
 
 class InterfaceMain:
-    def __init__(self):
-        self.TOKENIZATION_TYPES = ['TF-IDF', 'Bag of Words', 'N-grams', 'Word 2 Vec']
-        self.SEMANTIC_ANALYZE_TYPES = ['PCA', 'SVD', 'LDiA']
-        self.DISTANCE_TYPES = ['cosine', 'l1', 'l2']
+    def __init__(self, model):
+        self._model = model
         self.RESULTS_NUMBER = 16
         self.root = Tk()
         self.input_field = None
@@ -44,12 +46,9 @@ class InterfaceMain:
 
     def _generate_semantic_results(self):
         # pass this values to semantic search algorithm
-        print(self.SEMANTIC_ANALYZE_TYPES[self.semantic_choice_field.current()])
-        print(self.TOKENIZATION_TYPES[self.tokenization_choice_field.current()])
-        print(self.DISTANCE_TYPES[self.distance_choice_field.current()])
-        print(self.input_field.get())
-        # results = magic_algorithm(values bajo jajo) <- this should return list or results
-        results = [f"great success nr {i + 1}" for i in range(self.RESULTS_NUMBER)]  # example
+        text = self.input_field.get()
+        self._model.create_model(self.tokenization_choice_field.current(), self.semantic_choice_field.current())
+        results = self._model.search(text, self.distance_choice_field.current())
         for index, result in enumerate(results):
             self.results[index].set(f"{index + 1}. {result}")
 
@@ -59,15 +58,15 @@ class InterfaceMain:
 
         self.semantic_choice_field = self._generate_combobox(label_text="Choose tokenization type",
                                                              label_y=220,
-                                                             values=self.TOKENIZATION_TYPES)
+                                                             values=engine.tokenization.TokenizationTypes.get_names())
 
         self.tokenization_choice_field = self._generate_combobox(label_text="Choose semantic analyze type",
                                                                  label_y=300,
-                                                                 values=self.SEMANTIC_ANALYZE_TYPES)
+                                                                 values=engine.semantic_analyze.SemanticTypes.get_names())
 
         self.distance_choice_field = self._generate_combobox(label_text="Choose distance type",
                                                              label_y=380,
-                                                             values=self.DISTANCE_TYPES)
+                                                             values=engine.distance.DistanceMetric.get_names())
 
     def _generate_combobox(self, label_text, label_y, values):
         self._draw_label(text=label_text, label_x=40, label_y=label_y)
@@ -83,5 +82,6 @@ class InterfaceMain:
         for i in range(self.RESULTS_NUMBER):
             text_variable = StringVar()
             text_variable.set(f"{i + 1}.")
-            self._draw_label(text=f"", label_x=330, label_y=25 * (i + 1) + 20, font_size=12, text_variable=text_variable)
+            self._draw_label(text=f"", label_x=330, label_y=25 * (i + 1) + 20, font_size=12,
+                             text_variable=text_variable)
             self.results.append(text_variable)
