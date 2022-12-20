@@ -56,11 +56,11 @@ class InterfaceMain:
         function_frame = LabelFrame(self.root, text="Options", width=260, height=250)
         function_frame.place(x=20, y=200)
 
-        self.semantic_choice_field = self._generate_combobox(label_text="Choose tokenization type",
+        self.tokenization_choice_field = self._generate_combobox(label_text="Choose tokenization type",
                                                              label_y=220,
                                                              values=engine.tokenization.TokenizationTypes.get_names())
 
-        self.tokenization_choice_field = self._generate_combobox(label_text="Choose semantic analyze type",
+        self.semantic_choice_field = self._generate_combobox(label_text="Choose semantic analyze type",
                                                                  label_y=300,
                                                                  values=engine.semantic_analyze.SemanticTypes.get_names())
 
