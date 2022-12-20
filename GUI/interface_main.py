@@ -24,7 +24,7 @@ class InterfaceMain:
         self.root.mainloop()
 
     def _init_root(self):
-        self.root.geometry("600x500")
+        self.root.geometry("800x500")
         self.root.title("Semantic analyse")
 
     def _draw_user_input(self):
@@ -76,7 +76,7 @@ class InterfaceMain:
         return combobox_field
 
     def _draw_response(self):
-        function_frame = LabelFrame(self.root, text="Results", width=260, height=430)
+        function_frame = LabelFrame(self.root, text="Results", width=460, height=430)
         function_frame.place(x=310, y=20)
 
         for i in range(self.RESULTS_NUMBER):
