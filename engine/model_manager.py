@@ -1,3 +1,5 @@
+from math import fabs
+
 from engine.tokenization import Tokenization, TokenizationTypes
 from engine.semantic_analyze import Semantic, SemanticTypes
 from engine.distance import DistanceMetric, get_distance
@@ -24,7 +26,7 @@ class ModelManager:
     def get_n_min_indexes(self, vector: list, n=1):
         vector = np.array(vector)
         vector = vector.flatten()
-        return np.fabs(1 - vector).sort()[:n]
+        return vector.argsort()[:n]
 
     def search(self, text, distance: DistanceMetric):
         text = self.transform_text(text.lower())
