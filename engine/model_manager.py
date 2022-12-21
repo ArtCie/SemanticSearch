@@ -24,7 +24,7 @@ class ModelManager:
     def get_n_min_indexes(self, vector: list, n=1):
         vector = np.array(vector)
         vector = vector.flatten()
-        return vector.argsort()[:n]
+        return np.fabs(1 - vector).sort()[:n]
 
     def search(self, text, distance: DistanceMetric):
         text = self.transform_text(text.lower())

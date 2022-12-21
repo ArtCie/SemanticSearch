@@ -1,5 +1,6 @@
 from enum import IntEnum
 from sklearn.metrics import pairwise_distances
+import math
 
 
 class DistanceMetric(IntEnum):
