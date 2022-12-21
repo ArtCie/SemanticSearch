@@ -1,4 +1,4 @@
-from corpus.wikipedia_scraper import WikipediaScraper
+# from corpus.wikipedia_scraper import WikipediaScraper
 from corpus.corpus_builder import CorpusBuilder
 from GUI.interface_main import InterfaceMain
 from engine.model_manager import ModelManager
