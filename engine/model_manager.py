@@ -30,6 +30,6 @@ class ModelManager:
         text = self.transform_text(text.lower())
         distances = get_distance(distance, self._model, text)
         responses = []
-        for index in self.get_n_min_indexes(distances, 10):
+        for index in self.get_n_min_indexes(distances, 16):
             responses.append(f'{distances[index]} - {self._corpus[index]}')
         return responses
